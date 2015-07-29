@@ -1,0 +1,105 @@
+item.copperIngot.name=Copper Ingot
+item.silverIngot.name=Silver Ingot
+item.zincIngot.name=Zinc Ingot
+item.leadIngot.name=Lead Ingot
+item.aluminumIngot.name=Aluminum Ingot
+item.titaniumIngot.name=Titanium Ingot
+item.platinumIngot.name=Platinum Ingot
+item.nickelIngot.name=Nickel Ingot
+item.tungstenIngot.name=Tungsten Ingot
+item.cobaltIngot.name=Cobalt Ingot
+
+item.copperNugget.name=Copper Nugget
+item.silverNugget.name=Silver Nugget
+item.zincNugget.name=Zinc Nugget
+item.leadNugget.name=Lead Nugget
+item.aluminumNugget.name=Aluminum Nugget
+item.titaniumNugget.name=Titanium Nugget
+item.platinumNugget.name=Platinum Nugget
+item.nickelNugget.name=Nickel Nugget
+item.tungstenNugget.name=Tungsten Nugget
+item.cobaltNugget.name=Cobalt Nugget
+
+item.swordSilver.name=Silver Sword
+item.shovelSilver.name=Silver Shovel
+item.axeSilver.name=Silver Axe
+item.hoeSilver.name=Silver Hoe
+item.pickaxeSilver.name=Silver Pickaxe
+
+item.swordCopper.name=Copper Sword
+item.shovelCopper.name=Copper Shovel
+item.axeCopper.name=Copper Axe
+item.hoeCopper.name=Copper Hoe
+item.pickaxeCopper.name=Copper Pickaxe
+
+item.swordZinc.name=Zinc Sword
+item.shovelZinc.name=Zinc Shovel
+item.axeZinc.name=Zinc Axe
+item.hoeZinc.name=Zinc Hoe
+item.pickaxeZinc.name=Zinc Pickaxe
+
+item.swordLead.name=Lead Sword
+item.shovelLead.name=Lead Shovel
+item.axeLead.name=Lead Axe
+item.hoeLead.name=Lead Hoe
+item.pickaxeLead.name=Lead Pickaxe
+
+item.swordAluminum.name=Aluminum Sword
+item.shovelAluminum.name=Aluminum Shovel
+item.axeAluminum.name=Aluminum Axe
+item.hoeAluminum.name=Aluminum Hoe
+item.pickaxeAluminum.name=Aluminum Pickaxe
+
+item.swordTitanium.name=Titanium Sword
+item.shovelTitanium.name=Titanium Shovel
+item.axeTitanium.name=Titanium Axe
+item.hoeTitanium.name=Titanium Hoe
+item.pickaxeTitanium.name=Titanium Pickaxe
+
+item.swordPlatinum.name=Platinum Sword
+item.shovelPlatinum.name=Platinum Shovel
+item.axePlatinum.name=Platinum Axe
+item.hoePlatinum.name=Platinum Hoe
+item.pickaxePlatinum.name=Platinum Pickaxe
+
+item.swordNickel.name=Nickel Sword
+item.shovelNickel.name=Nickel Shovel
+item.axeNickel.name=Nickel Axe
+item.hoeNickel.name=Nickel Hoe
+item.pickaxeNickel.name=Nickel Pickaxe
+
+item.swordTungsten.name=Tungsten Sword
+item.shovelTungsten.name=Tungsten Shovel
+item.axeTungsten.name=Tungsten Axe
+item.hoeTungsten.name=Tungsten Hoe
+item.pickaxeTungsten.name=Tungsten Pickaxe
+
+item.swordCobalt.name=Cobalt Sword
+item.shovelCobalt.name=Cobalt Shovel
+item.axeCobalt.name=Cobalt Axe
+item.hoeCobalt.name=Cobalt Hoe
+item.pickaxeCobalt.name=Cobalt Pickaxe
+
+item.clayDust.name=Clay Dust
+
+tile.oreCopper.name=Copper Ore
+tile.oreSilver.name=Silver Ore
+tile.oreZinc.name=Zinc Ore
+tile.oreLead.name=Lead Ore
+tile.oreAluminum.name=Aluminum Ore
+tile.oreTitanium.name=Titanium Ore
+tile.orePlatinum.name=Platinum Ore
+tile.oreNickel.name=Nickel Ore
+tile.oreTungsten.name=Tungsten Ore
+tile.oreCobalt.name=Cobalt Ore
+tile.orePlutonium.name=Plutonium Ore
+tile.oreUranium.name=Uranium Ore
+
+tile.concrete.name=Concrete
+tile.concreteBrick.name=Concrete Bricks
+tile.ceramic.name=Ceramic
+tile.ceramicBrick.name=Ceramic Bricks
+
+tile.kiln.name=Kiln
+
+itemGroup.mttcTab=MTTC

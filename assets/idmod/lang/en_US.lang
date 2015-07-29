@@ -1,0 +1,14 @@
+item.idTicket.name=iD Raffle Ticket
+item.idFlag.name=iD Crossing Flag
+item.sushi.name=Sushi
+item.rice.name=Rice
+item.ready.name=Ready
+
+item.record.ready.desc=Get Ready For This
+
+tile.idOre.name=iDonium
+tile.riceCrop.name=Rice Plant
+
+itemGroup.techTab=iD Tech Camp
+
+entity.entityStaff.name=iD Tech Staff

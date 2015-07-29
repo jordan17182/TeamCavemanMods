@@ -1,0 +1,13 @@
+{
+  "records.idmod:ready": { "category": "record", "sounds": [{"name": "ready","stream": true}]},
+  
+  "records.11": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "ready",
+        "stream": true
+      }
+    ]
+  }
+}
